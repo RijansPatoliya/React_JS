@@ -1,0 +1,13 @@
+button{
+  background-color: rgb(225, 235, 235);
+  color: black;
+  border: 1px solid black;
+  width: 90px;
+  height: 50px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+body{
+  background-color: aquamarine;
+}
